@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-         echo "premier essai github :-)";
+         echo "On continue les essai github :-)";
         ?>
     </body>
 </html>
