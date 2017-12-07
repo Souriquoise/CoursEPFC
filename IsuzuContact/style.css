@@ -1,0 +1,156 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 3 oct. 2017, 15:26:03
+    Author     : wouter
+*/
+
+html
+{
+    background-color: black;
+}
+body
+{
+    font-family: sans-serif;
+    font-size: 1em;
+    line-height: 1.5em;
+       
+}
+
+img
+{
+    width: 100%
+}
+
+h1
+{
+    text-align: center;
+    padding-top: 20px;
+    text-transform: uppercase;
+    color: #ffd88e;
+}
+
+h2
+{
+   font-size: 1.3em;
+   color:red;
+   text-transform: uppercase;
+}
+
+h3
+{
+   padding-top: 0px;
+   padding-bottom: 20px; 
+   text-align: center;
+   color:black;
+   text-transform: uppercase;
+}
+
+h4
+{
+ 
+   color:red;
+   text-transform: uppercase;
+   margin: 0px;
+}
+
+.main
+{
+    background-color: white;
+    padding: 0em 1em 1em;
+    padding-top: 10px
+}
+
+.menu
+{
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+ margin-bottom: 10px;
+ overflow: hidden;
+ 
+}
+
+.items
+{
+    float: left;
+}
+
+.block-page
+
+{
+ background-color: white;    
+}
+
+.contactus
+{
+    padding: 10px;
+}
+
+.google
+{
+    width: 100%;
+    height: 300px;
+}
+
+.colonnes
+{
+    
+    display: flex;
+    justify-content: space-between;
+    padding-right: 50px;
+    padding-left: 60px;
+  }
+ 
+ .adress
+ {
+     margin: 0px;
+    
+      
+ }
+ .sales
+ {
+     list-style: none;
+     padding: 0px;
+ }
+
+nav, header
+{
+  color: white;  
+}
+
+footer
+{
+    text-align: center;
+    color: white;
+    front-size: 0.85em;
+}
+
+.video
+{
+    background-color: black;
+}
+
+a
+{
+    color: white;
+    text-decoration: none;
+    display: block;
+    width: 120px;
+    font-weight: bold; /* a priori pas possible, pas de gras pour les liens visités*/
+    background-color: black;
+    text-align: center;
+    padding: 4 px;
+    text-transform: uppercase;
+}
+    
+ a:hover, a:active
+{
+    
+    color: #ff5c5c;
+}
+    
+
