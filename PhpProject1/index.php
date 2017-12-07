@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
          echo "On continue les essai github :-)";
+         echo "essai du 7 décembre";
         ?>
     </body>
 </html>
